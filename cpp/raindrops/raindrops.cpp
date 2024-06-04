@@ -1,0 +1,3 @@
+namespace raindrops {
+
+}  // namespace raindrops
